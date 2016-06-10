@@ -176,7 +176,7 @@ Als Handover oder Verbindungsübergabe (engl. Handover – Ablieferung, Übergab
 ---
 
 # Roaming
-Der Begriff Roaming (englisch für „herumwandern“, „streunen“ oder „herumstreifen“) ist die Fähigkeit eines Mobilfunknetz-Teilnehmers, in einem anderen Netzwerk als seinem Heimnetzwerk selbsttätig Anrufe zu empfangen oder zu tätigen, Daten zu schicken und zu empfangen oder Zugriff auf andere Mobilfunknetzdienste zu haben. Der Begriff steht synonym mit der Handynutzung im Ausland, wo das eigene Heimnetzwerk nicht zur Verfügung steht. Dies funktioniert sowohl im GSM-Standard, wo der Begriff eingeführt wurde, als auch im UMTS- und LTE-Standard.[1] Die Einsatzbereitschaft der Endgeräte außerhalb des eigenen Funknetzes wird durch Authentisierung, Autorisierung und Verrechnungsverfahren (Billing) technisch unterstützt.
+Der Begriff Roaming (englisch für „herumwandern“, „streunen“ oder „herumstreifen“) ist die Fähigkeit eines Mobilfunknetz-Teilnehmers, in einem anderen Netzwerk als seinem Heimnetzwerk selbsttätig Anrufe zu empfangen oder zu tätigen, Daten zu schicken und zu empfangen oder Zugriff auf andere Mobilfunknetzdienste zu haben. Der Begriff steht synonym mit der Handynutzung im Ausland, wo das eigene Heimnetzwerk nicht zur Verfügung steht. Dies funktioniert sowohl im GSM-Standard, wo der Begriff eingeführt wurde, als auch im UMTS- und LTE-Standard Die Einsatzbereitschaft der Endgeräte außerhalb des eigenen Funknetzes wird durch Authentisierung, Autorisierung und Verrechnungsverfahren (Billing) technisch unterstützt.
 
 ---
 
@@ -204,6 +204,12 @@ Der Begriff Roaming (englisch für „herumwandern“, „streunen“ oder „he
 # Je mehr Daten übertragen werden, umso "enger" wird es in der jeweiligen Frequenz.
 
 ^ Rohranalogie => Rohr aufmalen
+
+---
+
+# AKA Bandbreite
+
+Die Bandbreite ist eine Kenngröße in der Signalverarbeitung, die die Breite des Intervalls in einem Frequenzspektrum festlegt, in dem die dominanten Frequenzanteile eines zu übertragenden oder zu speichernden Signals liegen. Die Bandbreite ist durch eine untere und eine obere Grenzfrequenz charakterisiert, wobei je nach Anwendung unterschiedliche Festlegungen der beiden Grenzwerte existieren und somit je nach Zusammenhang unterschiedliche Bandbreiten als Kennwert existieren.
 
 ---
 
@@ -274,6 +280,29 @@ GSM-Ortung bezeichnet die Ortsbestimmung eines eingeschalteten und in ein Funkne
 - Anwedungsfälle: LBS, Ortung verlorenerer Endgeräte, Notrufe, Ermittlung durch Polizei, Zoll, ...
 - Verschiedene Möglichkeiten: Zelle, Laufzeitmessung, GPS, "Stille SMS"
 - Genauigkeit zwischen mehreren Kilometern bis unter 5 m 
+
+---
+
+# Latenz
+- Verzögerung vom Senden eines Ereignisses bis zum Empfang
+- Ausgelöst durch Laufzeit des Signals, Kodierung, ...
+- "Der Ping ist schlecht ..." ;)
+- Probleme vorallem bei Echtzeit Anwednugn wie zum Beispiel Sprache
+
+---
+
+# Verfügbarkeit / Netzabdeckung
+- Abhängig von Basisstationen und topografischen Gegebenheiten
+- Unterschiede zwischen Sprache und Internet in versch. Qualitäten
+- Bester Ausbau in Gebieten mit vielen Menschen
+
+---
+
+# Netzabdeckung in Deutschland
+
+- [T-Mobile](https://www.t-mobile.de/netzausbau/0,25250,15400-_,00.html)
+- [Vodafone] (http://www.vodafone.de/privat/hilfe-support/netzabdeckung.html)
+- [Telefonica aka E-Plus & O2] (http://geoinfo.eplus.de/evinternet/)
 
 ---
 
@@ -429,15 +458,6 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-# Mobilfunknetze
-## Latenz
-## Bandbreite
-## Verfügbarkeit
-### Netzabdeckungskarte
-### Internationale Möglichkeiten (Roaming)
-
----
-
 # Nutzung mobiles Internet
 ## Deutschland - ca. 40 Mio
 ## Europa
@@ -446,7 +466,19 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 ---
 
 # Mobile UseCases
-## Unterschiede: Browsing vs. kaufen
+
+---
+
+## Welche Unterschiede gibt es zwischen Desktop and mobilem Internet?
+
+^ Browsing vs. kaufen
+
+---
+
+## Was sind eurer Meinung nach Anwendungen für mobile Endgeräte?
+
+---
+ 
 ## CrossDeviceUsage
 ## Mobile Tagging
 ## Mobile Payment
@@ -459,7 +491,11 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-# GPS
+# [fit] GPS
+
+---
+
+![](https://www.youtube.com/watch?v=v4Avr_hs4LA)
 
 ---
 
@@ -471,7 +507,14 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-# Miroblogging
+# Mikroblogging
+
+**Mikroblogging** ist eine Form des Bloggens, bei der die Benutzer kurze, SMS-ähnliche Textnachrichten veröffentlichen können. Die Länge dieser Nachrichten beträgt meist weniger als 200 Zeichen. Die einzelnen Postings sind entweder privat oder öffentlich zugänglich und werden wie in einem Blog chronologisch dargestellt. Die Nachrichten können meist über verschiedene Kanäle wie SMS, E-Mail, Instant Messaging oder das Web erstellt und abonniert werden.
+
+---
+# Mikrovideoblogging
+
+**Mikrovideoblogging** ist eine erweiterte Form des Mikrobloggings mit dem Unterschied, dass der Benutzer die Möglichkeit hat, kurze Videos (ohne Ton) aufzunehmen und diese dann auf eine Webseite zu stellen. Vernetzen lässt sich das Ganze dann beispielsweise mit Facebook, Twitter usw., wo man die einzelnen Statusmeldungen um die Videoanwendung erweitern und veröffentlichen kann.
 
 ---
 
@@ -479,7 +522,7 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-# Bedeutung
+# [fit] Bedeutung
 
 ---
 
