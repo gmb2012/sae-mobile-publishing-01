@@ -76,10 +76,14 @@ Facebook
 ---
 
 # Agenda
-## todo
-- Programmiersprachen bei native dazu packen
-- Agenda schreiben
-- HTML für Bootstrap mit allen Elementen: container, row, col, container-fluid
+- Mobilfunk
+- Mobiles Internet
+- Kommunikationsstrategien
+- Native Apps
+- EBooks
+- Entwicklung für mobile
+
+- HTML für Bootstrap mit allen Elementen: container, row, col, container-fluid, versch. Cols
 
 ---
 
@@ -780,10 +784,10 @@ Im Gegensatz zu Online-Werbung auf stationären Endgeräten werden Mobile-Ads (A
 ---
 
 # Zielplattform
-## Android
-## iOS
-## Blackberry
-## Windows mobile
+## Android (JVM)
+## iOS (Objective-C, C & SWIFT
+## Blackberry (C/C++, JavaScript/CSS/HTML, ActionScript/AIR, Java)
+## Windows mobile (C#,VB.NET, C++, Embedded Visual Basic)
 
 ---
 
