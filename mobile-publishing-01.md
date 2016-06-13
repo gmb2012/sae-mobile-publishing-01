@@ -78,7 +78,8 @@ Facebook
 # Agenda
 ## todo
 - Programmiersprachen bei native dazu packen
-- Normaler Prozeß => Coding, beta, einreichen, veräffentlichung, ...
+- Agenda schreiben
+- HTML für Bootstrap mit allen Elementen: container, row, col, container-fluid
 
 ---
 
@@ -195,7 +196,7 @@ Der Begriff Roaming (englisch für „herumwandern“, „streunen“ oder „he
 ## Früher waren die Frequenzen aufgeteilt zwischen D (GSM 900) und E Netz (GSM 1800)
 ## Zur Nutzung beider Bänder benötigt man ein Dualband-Handy
 
-^ Heute ist jedes verkaufte Handy ein Dualband-Handy
+^ Heute ist jedes verkaufte Handy mindestens ein Dualband-Handy
 
 ---
 
@@ -705,7 +706,7 @@ Twitter (englisch für Gezwitscher) ist ein Mikroblogging-Dienst des Unternehmen
 # Aufgabe
 ## Sucht falsche Twitter-Profile.
 
-^ Wer findet mehr.
+^ Wer findet mehr. 15 min
 
 ---
 
@@ -786,6 +787,17 @@ Im Gegensatz zu Online-Werbung auf stationären Endgeräten werden Mobile-Ads (A
 
 ---
 
+# Ablauf
+1. Programmieren
+2. Testing intern
+3. Beta veröffentlichung
+4. Freigabe Prozeß in Appstore
+5. Verfügbar in Appstore
+
+^ Gründe für Zurückweisung: Schlechter Code, Business-modell passt nicht
+
+---
+
 # Vorteile
 - Bessere Performance
 - Bessere Integration
@@ -800,6 +812,31 @@ Im Gegensatz zu Online-Werbung auf stationären Endgeräten werden Mobile-Ads (A
 - Entwicklung für jede Plattform notwendig
 - Approval in AppStore meist langwierig und nicht transparent
 - Verschiedene Versionen
+- 30% fließen an Appstore Betreiber
+
+---
+
+# react native
+React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React. The focus of React Native is on developer efficiency across all the platforms you care about — learn once, write anywhere. Facebook uses React Native in multiple production apps and will continue investing in React Native.
+
+---
+
+# Andere Crossdevice Frameworks
+- Apache Cordova/PhoneGap
+- Appcelerator
+- Adobe AIR
+- Sencha
+- Qt
+
+---
+
+# Wirtschaftliche Bedeutung
+Der Umsatz mit Apps belief sich im Jahr 2015 auf rund 41 Milliarden US-Dollar. Für das Jahr 2020 wird ein Umsatz mit Apps in Höhe von 101,1 Milliarden US-Dollar prognostiziert.
+
+## Geschäftsmodelle
+- Bezahlte Apps
+- InApp Purchases
+- Freemium
 
 ---
 
@@ -822,36 +859,164 @@ Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich d
 
 ---
 
-# EBooks
+# [fit] EBooks
+
+---
+
+# Wirtschaftliche Bedeutung
+2014 wurden in Deutschland 24,8 Millionen (2013: 21,5 Millionen) E-Books verkauft. Dies entsprach einem Umsatzanteil von 4,3 % des mit 9,3 Milliarden Euro weltweit drittgrößten Buchmarktes. Die Anzahl der E-Book-Käufer stieg von einer Million im Jahr 2011 auf 3,9 Millionen im Jahr 2014. Mit 59 % war davon die Mehrheit Frauen. Im Vergleich zum Deutschen Buchmarkt ist der Marktanteil von E-Books in Nordamerika erheblich höher. Er betrug in den USA 30% bei einem Gesamtvolumen von 30 Mrd. USD.
+
+In Deutschland sind ca. 3 Mio. Ebook-Reader im Umlauf.
+
+---
+
 ## Endgeräte
-## Standards
-## Wie baue ich ein EBook
+- Amazon Kindle
+- Tolino
+- Nook
+- Kobo
+- ...
 
 ---
 
-# Entwicklung für mobile devices
+# Formate
+## Text
+## HTML / Markdown
+## EPUB
+Bei EPUB handelt es sich um ein offenes und herstellerunabhängiges Format, das weit verbreitet ist und von den meisten Lesegeräten (Ausnahme: Amazon's Kindle) dargestellt werden kann.
 
 ---
 
-# Emulatoren
-## Saucelabs
-## Browserplugins
-### Netzwerk Monitor
-### Resize Plugin
+## PDF
+PDF ist ein sehr weit verbreitetes Format, das leicht per Export bzw. per Druckfunktion aus praktisch beliebigen Anwendungen heraus erstellt werden kann. Als seitenorientiertes Format eignet es sich im allgemeinen allerdings nicht besonders gut für die Darstellung auf E-Book-Readern, da sich Fließtext nicht automatisch an die Bildschirmgröße des Lesegeräts anpasst. Eher geeignet ist PDF für E-Books mit vielen Grafiken und mathematischen Formeln.
+
+---
+
+## AZW (MOBI)
+Hier handelt es sich um das proprietäre Format der diversen Amazon Kindle Lesegeräte. AZW ist eine Variante des MOBI-Formats. Obwohl proprietär, ist AZW sehr weit verbreitet.
+
+## iBook
+Dieses Apple-Format ist eng mit dem offenen EPUP-Format verwandt, jedoch nicht kompatibel damit. E-Books, welche mit Apple's iBooks Author Software erstellt werden, sind im proprietären iBook-Format.
+
+---
+
+# Software
+- OpenOffice / LibreOffice
+- Calibre 
+- writer2epub
+- Pages 
+- iBooks Author 
+- Calligra Author 
+- Alles, was nach PDF exportieren kann ;)
+- ...
+
+---
+
+# [fit] Wie baue ich ein EBook?
+
+---
+
+# Erstellung der Inhalte
+
+Diese Schritte erfolgen mit Hilfe einer geeigneten Software wie beispielsweise LibreOffice 
+
+1. Writer oder MS Word und gegebenenfalls einer Bildverabeitung. 
+2. Texte erfassen / importieren. Dabei auf die korrekte Verwendung von Formatvorlagen achten.
+Bilder und andere Elemente (Video, Audio, Links usw.) hinzufügen bzw. bereit stellen. 
+3. Alles in einem geeigneten Format speichern. 
+
+---
+
+# Erstellung des E-Books
+
+Diese Schritte erfolgen mit der eigentlichen EPUB-Software wie beispielsweise weiter Calibre. 
+
+4. Alles in den EPUB-Editor importieren. 
+5. Alles strukturieren (Inhaltsverzeichnis, Kapitel usw.).
+6. Speichern und als E-Book veröffentlichen.
+
+Dieses Vorgehen gilt dann, wenn für Schreiben / Zusammenstellen und E-Book erstellen unterschiedliche Software benutzt wird, also beispielsweise ein Textverbeitungsprogramm fürs Schreiben und ein EPUB-Editor wie Sigil zum Erstellen. 
+
+---
+
+# Oder alles aus einer Hand
+
+Wird das E-Book mit Hilfe einer Software erstellt, die nach EPUB exportiert oder dieses Format direkt erzeugt, können alle Schritte mit Hilfe dieser Software erfolgen. Dies ist beispielsweise beim Einsatz von weiter writer2epub oder weiter Pages der Fall.
+
+---
+
+# Und dann Upload..
+## z.B. bei Amazon
+
+---
+
+# Zu beachten!
+
+Zwar ist es zwingend, mit Formatvorlagen zu arbeiten, doch braucht es nicht viele Formatvorlagen für ein E-Book. Im Normalfall reichen vier Formatvorlagen aus:  eine für die Grundschrift (Standard) und drei für Überschriften und Unterüberschriften (h1, h2, h3). 
+
+---
+
+Weiterhin ist darauf zu achten, dass Abbildungen/Bilder an die Größe der Bildschirme der Ausgabegeräte angepasst werden. Zwar skalieren viele Epub-Editoren die Bilder, doch ist man auf der sicheren Seite, wenn man die Bilder vor vorneherein in der richtigen Größe einfügt. Ein typisches E-Book Lesegerät hat eine Bildschirmgröße von etwa 6 Zoll. Dies bedeutet, dass Bilder nicht größer als etwa 600 x 800 Pixel (Breite x Höhe) sein dürfen, um auf eine Seite zu passen. Für manche Lesegeräte besteht auch eine Grenze für die Größe der Bilddatei (häufig weniger als 100 KB). 
+
+---
+
+Gestalterische Elemente wie Tabellen und mathematische Formeln sind grundsätzlich möglich. Manchmal ist es jedoch einfacher, solche Elemente als Bilder einzubinden. 
+
+---
+
+# [fit] Entwicklung für 
+# [fit] mobile devices
 
 ---
 
 # Probleme
+## Wo seht ihr Probleme bei der Entwicklung für mobile devices?
+
+---
+
+# Probleme
+## Zu wenig Platz
+## Browser
 ## Performance
 ## Bandbreite
 
 ---
 
-# Best Practices
-## Burger button
-## Flat Design
-## Menüs
-## Best Practices W3C
+# [fit] Best 
+# [fit] Practices
+
+---
+
+# [fit] [Burger] (https://en.wikipedia.org/wiki/Hamburger_button)  
+# [fit] Button
+
+---
+
+# [fit] Flat 
+# [fit] Design
+
+---
+
+![](images/windows-8-flat-design.jpg)
+
+---
+
+![](images/3.-flat-design.jpg)
+
+---
+
+# [fit] Menüs
+
+^ Einfach, keine Verschachtelung, Einblenden rechts bzw. links
+
+---
+
+# [fit] Packing 
+# [fit] &
+# [fit] Minifying
+
+^ Nur wenige Requests, möglichst kleine Assets
+^ Webpack, Gulp, GRUNT, ...
 
 ---
 
@@ -871,8 +1036,34 @@ Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich d
 
 ---
 
+# [fit] Test in 
+# [fit] multiple Browsers
+
+---
+
+# Browser in Deutschland
+
+- [Browser1] (http://www.browser-statistik.de)
+- [Versionen] (https://www.browser-statistik.de/statistiken/versionen)
+
+---
+
+# [fit] Touch support
+
+- [Übersicht] (http://www.queness.com/post/11755/11-multi-touch-and-touch-events-javascript-libraries)
+- [Hammer.js] (http://hammerjs.github.io)
+
+---
+
+# Was das W3C sagt...
+[W3C best practices] (https://www.w3.org/TR/mobile-bp/)
+
+---
+
 # Beispiele
 ## Aufgabe: Sucht eine Seite, die eurer Meinung nach besonders gut  auf einem mobile Device aussieht und eine, die besonders schlecht aussieht.
+
+^ 15min
 
 ---
 
@@ -881,29 +1072,131 @@ Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich d
 
 ---
 
+# Was brauche ich?
+## Browserplugins
+### Developer Tools
+### Netzwerk Monitor
+### [Resize Plugin] (https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal?hl=en)
+
+---
+
+# [fit] Saucelabs
+
+---
+
+![] (https://www.youtube.com/watch?v=kCJwwRXUTdo)
+
+---
+
 # Responsive Design
-## Definition
+Beim Responsive Webdesign handelt es sich um ein gestalterisches und technisches Paradigma zur Erstellung von Websites, so dass diese auf Eigenschaften des jeweils benutzten Endgeräts, vor allem Smartphones und Tabletcomputer, reagieren können. Der grafische Aufbau einer „responsiven“ Website erfolgt anhand der Anforderungen des jeweiligen Gerätes, mit dem die Site betrachtet wird. Dies betrifft insbesondere die Anordnung und Darstellung einzelner Elemente, wie Navigationen, Seitenspalten und Texte, aber auch die Nutzung unterschiedlicher Eingabemethoden von Maus (klicken, überfahren) oder Touchscreen (tippen, wischen).
 
 ---
 
 # Adaptive Design
+- Ähnlich wie responsive aber meist nur für bestimmte Auflösungen
+- Meist Serverseitig
+
+---
+
+# Dedicated Mobile Webseite
+Eine mobile Webseite ist eine Webseite, die speziell für die Nutzung auf mobilen Endgeräten wie z. B. Smartphones optimiert wurde. Dazu gehört vor allem die Anpassung auf die geringe Bildschirmgröße. Mobile Webseiten werden wie eine gewöhnliche Webseite über einen Webbrowser aufgerufen. Oft ist der Domain ein m. vorangestellt.
 
 ---
 
 # [fit] RESS
+
+---
+
 # Responsive Design + Server Side Components
 
----
-
-# Behinderten gerecht
+Bei Responsive Webdesign with Server Side components (RESS) handelt es sich um eine Weiterentwicklung des klassischen Konzeptes von Responsive Webdesign hin zu einer RWD-Lösung mit serverseitigen Komponenten.
 
 ---
 
-# Und was ist mit Papier?
+Die Clienterkennung, Aufbereitung und Modifikation von Bildern, Anpassung der Inhalte und Funktionalitäten übernimmt ein Server. Hierzu erfolgt eine Device- und Feature Detection: Der Server ermittelt die Eigenschaften des Endgeräts mit Hilfe einer Device Database. Somit ist der Server in der Lage, die angefragten Inhalte endgerätespezifisch auszuliefern. Frontend- und Backendprozesse können sauber gekapselt werden – wodurch eine kontextabhängige Auslieferung an das Endgerät ermöglicht wird. Dadurch wird das Endgerät und der Browser des Nutzers erheblich entlastet.
+
+# = responsive + adaptive
 
 ---
 
-# Google's AMP
+# Barrierefreies Internet
+Barrierefreies Internet sind Web-Angebote, die von allen Nutzern unabhängig von ihren Einschränkungen oder technischen Möglichkeiten uneingeschränkt (barrierefrei) genutzt werden können. Die Nutzung des Begriffs Internet ist hier eine umgangssprachliche Gleichsetzung des Begriffs „Internet“ mit dem World Wide Web.
+
+---
+
+- Stellen Sie äquivalente Alternativen für Audio- und visuellen Inhalt bereit.
+- Verlassen Sie sich nicht auf Farbe allein (beim Auszeichnen von Struktur/Semantik).
+- Verwenden Sie Markup und Stylesheets und erledigen Sie dies auf korrekte Weise.
+- Verdeutlichen Sie die Verwendung natürlicher Sprache (verwenden Sie beispielsweise das HTML-lang Attribut für das gesamte Dokument und Teile in einer spezifischen Sprache).
+
+---
+
+- Erstellen Sie Tabellen, die geschmeidig transformieren (verwenden Sie Tabellen für tabuläre Daten, aber nicht für das Layout allein. Verwenden Sie die entsprechenden Elemente wie thead und tbody für die Auszeichnung von Tabellenbereichen).
+- Sorgen Sie dafür, dass Seiten, die neue Techniken verwenden, geschmeidig transformieren (und damit auch auf älteren bzw. für Accessibility geeigneten Benutzeragenten lauffähig sind).
+- Sorgen Sie für eine Kontrolle des Benutzers über zeitgesteuerte Änderungen des Inhalts (indem beispielsweise eine Abschaltung oder eine Verzögerung erlaubt wird - gilt im Besonderen auch für den Ablauf der Benutzersitzung oder für den Refresh von Seiten).
+
+---
+
+- Sorgen Sie für direkte Zugänglichkeit eingebetteter Benutzerschnittstellen (Applets/Skripts sollten über dieselbe Art und Weise wie die Browserschnittstelle selbst bedienbar sein).
+- Wählen Sie ein geräteunabhängiges Design (unabhängig vom Eingabegerät, sei es Tastatur, Maus, Sprache, Kopfstab).
+- Verwenden Sie Interim-Lösungen (bis die Standards in diesem Bereich von allen Eingabegeräten vollständig unterstützt werden).
+
+---
+
+- Verwenden Sie [W3C-Techniken und -Richtlinien] (https://www.w3.org/standards/webdesign/accessibility).
+- Stellen Sie Informationen zum Kontext und zur Orientierung bereit.
+- Stellen Sie klare Navigationsmechanismen bereit.
+- Sorgen Sie dafür, dass Dokumente klar und einfach gehalten sind.
+
+---
+
+# Richtiges Html schreiben
+## Alt
+## title
+
+# Nicht auf CSS und JS verlassen
+
+---
+
+# [fit] AMP
+
+---
+# Accelerated Mobile Pages
+**Accelerated Mobile Pages (AMP)** ist ein quelloffenes, plattformübergreifendes Framework, mit dessen Hilfe die Ladegeschwindigkeit mobiler Websites deutlich erhöht werden kann. AMP basiert auf der Reduktion von CSS und JavaScript, einem Content Delivery Network sowie angepasstem HTML. Unterstützt wird das Accelerated Mobile Pages Project von Google.
+
+---
+
+# Funktionsweise
+Die Ladegeschwindigkeit einer Website hängt in erster Linie von der Größe der zu ladenden Dateien ab. AMP versucht deshalb, die gesamte Größe einer Webseite auf ein Minimum zu reduzieren. Zugleich werden die Inhalte der AMP-Website gecacht und auf einem Proxyserver bereitgestellt. Greift ein Nutzer auf die Inhalte zu, werden sie über ein Content Delivery Network ausgeliefert. Der Quellcode von AMP-Websites kann von allen Servern interpretiert werden.
+
+---
+
+##AMP HTML
+
+Der HTML-Quellcode wird bei AMP angepasst und reduziert. Pro Seitenaufruf erfolgt darüber hinaus nur ein http request.
+
+## AMP JavaScript
+AMP-Websites verwenden ausschließlich asynchrones JavaSript. Hierdurch kann die Seite schneller gerendert werden, weil das Laden nicht durch JS-Ressourcen blockiert wird. Wird JavaScript von Drittanbietern eingebunden, erfolgt die Implementierung über iframes.
+
+---
+
+##AMP CDN
+Auf Proxyservern weltweit wird ein Cache von AMP-Websites angelegt. Die Inhalte können auf diese Weise über ein Content Delivery Network ausgegeben werden, das auf http 2.0 basiert. Das CDN prüft außerdem, ob die AMP-Website auch funktionsfähig ist.
+
+---
+
+Der große Vorteil von AMP besteht darin, dass die Ladegeschwindigkeit einer Website exakt vorausberechnet und skaliert werden kann. Zu weiteren Optimierungen gehört auch die Angabe exakter Dateigrößen für Bilder oder andere eingebundene Medien. Wird eine AMP-Website geladen, kann die Technik die einzelnen Downloads priorisieren. Hierfür werden neben den Dateigrößen auch die Positionen der einzelnen Dateien im Quellcode interpretiert.
+
+Auch CSS-Dateien sind von der Geschwindigkeitsoptimierung betroffen. CSS darf zum Beispiel nur inline und bis zu einer Maximalgröße von 50 Kilobyte implementiert werden.
+
+---
+
+# [Beispiel] (https://ampbyexample.com/introduction/hello_world/)
+
+---
+
+# [How to publish] (https://ampbyexample.com/introduction/how_to_publish_amps/)
 
 ---
 
@@ -911,11 +1204,66 @@ Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich d
 
 ---
 
+# Media Queries
+Bei Media Queries handelt es sich um ein Konzept, welches mit CSS3 eingeführt wurde und das Prinzip des Medientyps in CSS2 erweitert. Anstatt starr zu definieren, welches Medium das Zielmedium ist, können mit Media Queries die Eigenschaften des aktuellen Gerätes direkt abgefragt werden. Verfügbare Geräteeigenschaften sind zum Beispiel:
+
+- Breite und Höhe des Browserfensters / des Geräts
+- Orientierung (Quer- oder Hochformat)
+- Bildschirmauflösung
+
+---
+
+```css
+#inhalt {
+	width: 800px;
+}
+
+@media screen and (max-width: 1024px) {
+	#inhalt {
+		width: 600px;
+	}
+
+	aside {
+		display: none;
+	}
+}
+```
+
+---
+
 # [fit] Element Queries
 
 ---
 
-# [fit] The Grid
+```css
+.widget-name h2 {
+    font-size: 12px;
+}
+
+.widget-name[min-width~="400px"] h2 {
+    font-size: 18px;
+}
+
+.widget-name[min-width~="600px"] h2 {
+    padding: 55px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.widget-name[min-width~="700px"] h2 {
+    font-size: 34px;
+    color: red;
+}
+```
+
+---
+
+# Leider erst in CSS4
+![](images/Sad-Crying-Meme-Face-13.png)
+
+---
+
+# [fit] [The Grid] (https://getbootstrap.com/examples/grid/)
 
 ---
 
@@ -923,27 +1271,51 @@ Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich d
 
 ---
 
+# Boostrap
+Bootstrap ist ein freies CSS-Framework. Es enthält auf HTML und CSS basierende Gestaltungsvorlagen für Typografie, Formulare, Buttons, Tabellen, Grid-Systeme, Navigations- und andere Oberflächengestaltungselemente sowie zusätzliche, optionale JavaScript-Erweiterungen. Es wird unter anderem von der NASA und dem US-amerikanischen Nachrichtensender MSNBC eingesetzt.[4]
+
+---
+
 # Auflösungen
-## xs
-## sm
-## md
-## ld
+```css
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { ... }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { ... }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) { ... }
+```
 
 ---
 
-# Container
+# Es gibt vier sog. Breakpoints
+## XS : < 768px
+## SM : > 768px
+## MD : > 992
+## LG : > 1200px
 
 ---
 
-# Row
+# [How it works...] (http://getbootstrap.com/css/)
 
 ---
 
-# Col
+# Let's see it in action...
+![](images/norris.jpg)
 
 ---
 
-# Hidden
+# Theming
+- [WrapBootstrap - Bootstrap Themes & Templates] (https://wrapbootstrap.com)
+- [Start Bootstrap - Free Bootstrap Themes and Templates] (http://startbootstrap.com)
+- [Bootswatch: Free themes for Bootstrap] (https://bootswatch.com)
+- [Bootstrap Themes] (http://themes.getbootstrap.com)
+- ...
 
 ---
 
@@ -951,16 +1323,82 @@ Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich d
 
 ---
 
-# [fit] Glypicons
+# Webfonts
+
+Webtypografie bezeichnet die Typografie für digitale Texte und den Gebrauch von Schriftarten im Web. In den Anfängen von HTML wurden die Schriftarten und -stile ausschließlich durch die jeweiligen Einstellungen der Webbrowser bestimmt. Es gab keine Möglichkeit, die auf einer Website angezeigten Schriften zu beeinflussen, bis Netscape 1995 das inzwischen veraltete <font>-Tag einführte, das dann in der HTML-2-Spezifikation als Standard festgelegt wurde. Die definierte Schriftart musste allerdings auf dem Benutzerrechner installiert sein. Ansonsten wurde ein „Fallback-Font“, wie z. B. der im Browser eingestellte Standard-Sans-Serif oder Monospace-Font verwendet.
 
 ---
 
-# [fit] Flexbox
+Um die Gestaltung von der Auszeichnungssprache zu trennen, wurde 1996 die erste Version der Cascading-Style-Sheets-Spezifikation (CSS) veröffentlicht und beinhaltete dieselben Möglichkeiten. Moderne Browser unterstützten aber bald das Herunterladen fremder Fonts vom Webserver. Der erste Browser, der diese Technik nutzbar machte, war der Internet Explorer der Version 4.0. Der Font-Download wurde später Bestandteil des Fonts-Moduls von CSS3 und wurde seitdem in nahezu allen modernen Browsern implementiert. Dadurch stieg das Interesse an Webtypografie und dem Gebrauch herunterladbarer Schriftarten in Webseiten.
 
 ---
 
-# react native
+# How to use it
+- Visit https://www.google.com/fonts and choose a font
+- Add link ```<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>``` to html body
+- Add ```font-family: 'Open Sans', sans-serif;```to your style sheet e.g. to body-definition
 
 ---
 
-# Andere Crossdevice Frameworks
+# [fit] Icon 
+# [fit] Fonts
+
+---
+
+#Icon Fonts
+**Icon-Fonts sind Webfonts**, die Icons statt Buchstaben darstellen und vor allem als funktionale Piktogramme verwendet werden. Sie sind eine Alternative zu reinen Bilddateien oder CSS-Sprites. Da Icon-Fonts meist als Vektorschriften angelegt werden, können diese grafisch skalieren[5] und haben eine geringere Dateigröße als Pixel-Icons. Es gibt zahlreiche freie Icon-Fonts-Sets – das bekannteste ist [Font Awesome] (http://fontawesome.io/icons/) oder die in Bootstrap eingebauten [Glyphicons] (http://getbootstrap.com/components/#glyphicons) – oder frei konfigurierbare Zusammenstellungen von Icon-Fonts.
+
+---
+
+# How to use it?
+- Download the font
+- Include ```<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">``` in your header
+- Add it to your Html:
+  ```
+  <i class="fa fa-camera-retro fa-lg"></i>
+  <i class="fa fa-camera-retro fa-lg"></i>
+  <i class="fa fa-camera-retro fa-2x"></i>
+  ```
+
+---
+
+# [fit] [Flexbox] (https://blog.kulturbanause.de/2013/07/einfuhrung-in-das-flexbox-modell-von-css/)
+
+---
+
+# [fit] Und was ist mit 
+# [fit] Papier?
+
+---
+
+# CSS für print
+```
+@media print {
+  h1, ... {
+    color: #000;
+    background-color: #fff;
+  }
+}
+```
+
+---
+
+# Manueller Seitenumbruch
+Wollen Sie einen Seitenumbruch erzwingen oder verhindern, können Sie dies mittels page-break-before sowie page-break-after erreichen.
+
+# Absatzkontrolle
+Damit bei längeren Absätzen nicht einzelne Zeilen am Ende (Schusterjunge), bzw. Beginn (Hurenkind) der Seite isoliert stehen, kann man die CSS-Eigenschaften widows und orphans verwenden.
+
+---
+
+# Hochformat / Querformat
+Muss ein relativ breites Layout auf ein Blatt Papier passen, weil eventuell eine Tabelle mit vielen Spalten auf der Seite vorhanden ist, kann man die Ausgabe auf dem Drucker mittels @page 
+
+# Kopf- / Fußzeilen
+Lassen sich verstecken bzw. einblenden
+
+---
+
+![](images/Thats_all_folks.svg.png)
+
+^ Fragen? Feedback!
