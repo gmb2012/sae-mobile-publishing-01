@@ -76,6 +76,9 @@ Facebook
 ---
 
 # Agenda
+## todo
+- Programmiersprachen bei native dazu packen
+- Normaler Prozeß => Coding, beta, einreichen, veräffentlichung, ...
 
 ---
 
@@ -449,19 +452,79 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-# Geschichte
-## IPhone als erste Smartphone
+![](images/black-friday-smartphone-deals.jpg)
+
+---
+
+![](images/black_121.jpg)
+
+---
+
+![](images/P1030587.jpg)
+
+---
+
+![](images/PalmTX.jpg)
+
+---
+
+![](images/ebook-reader-mit-beleuchtung.jpg)
+
+---
+
+![](images/watchfaces-promo-titelbild.jpg)
+
+---
+
+![](images/ipod-nano-product-spacegray-2015.jpeg)
+
+---
+
+# And there are many more...
+
+---
+
+# [fit] Geschichte
+
+---
+
+# Wer hat's erfunden?
+## Also wer verhilf dem mobilen Internet zum Durchbruch?
+![](images/maxresdefault \(1\).jpg)
+
+---
+![inline](images/Original-iPhone-a.k.a-iPhone-2G.jpg)
+
+^ PDAs 2001
+^ 2007 Iphone
+^ Android 2008
 
 ---
 
 # Mobile OS
+- iOS
+- Android
+- Blackberry
+- Windows Phone
+- Symbian
+- ...
+
+---
+
+# Marktanteile
+![inline left](images/DE.jpg)
+![inline right](images/U-SA.jpg)
 
 ---
 
 # Nutzung mobiles Internet
-## Deutschland - ca. 40 Mio
-## Europa
-## USA
+## Deutschland - ca. 40 Mio (54%)
+## USA  - ca. 180 Mio
+## Weltweit - ca. 2 Mrd.
+
+---
+
+# Schon jetzt sind ca. 10% des weltweiten Traffics von mobilen Endgeräten
 
 ---
 
@@ -469,25 +532,84 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-## Welche Unterschiede gibt es zwischen Desktop and mobilem Internet?
+## Welche unterschiedlichen UseCases gibt es zwischen Desktop and mobilem Internet?
 
-^ Browsing vs. kaufen
+^ 5min darüber nachdenken. Browsing vs. kaufen
 
 ---
 
 ## Was sind eurer Meinung nach Anwendungen für mobile Endgeräte?
 
+^ 15 min => Recherche
+
 ---
  
-## CrossDeviceUsage
-## Mobile Tagging
-## Mobile Payment
-## Mobile Communities -  Tinder
-## Mobile Gaming
+# Mobile Tagging
+
+Der Begriff Mobile-Tagging (in Deutsch etwa „Markierung für das Mobiltelefon“) beschreibt den Vorgang, bei dem mit Hilfe der Kamera eines mobilen Handgerätes ein Strichcode von einem gekennzeichneten Objekt, aus einer Zeitschrift oder von einem Display ausgelesen wird. Üblicherweise werden als Codes verschiedene 2D-Barcodes verwendet, es sind auch mehrfarbige Codes bekannt. In den Codes können verschiedenste Datenformate gespeichert werden.
+
+---
+
+# Mobile Payment
+
+Mobile-Payment (auch M-Payment) sind Bezahlvorgänge, bei denen mindestens der Zahlungspflichtige mobile elektronische Techniken zur Initiierung, Autorisierung oder Realisierung der Zahlung einsetzt, etwa mittels mobiler Geräte wie Mobiltelefonen oder Tablet-Computern. Werden Mobiltelefone (Handys) eingesetzt, wird dies speziell als Handypayment (Scheinanglizismus für mobilfunkbasierende Bezahlung) bezeichnet. Die meisten Bezahlvorgänge liegen im Bereich des Micropayments, d.h. es werden Beträge zwischen 0,01 und 5,00 Euro abgerechnet. Stark verbreitet ist die Bezahlung von mobilfunknahen Diensten wie z. B. Klingeltönen, Bildern oder Ähnlichem.
+
+---
+
+# Social Media
+
+1.654 Millionen monatlich aktive Nutzer hat Facebook laut aktuellem Geschäftsbericht mittlerweile. Besonders die Zahl der mobilen Nutzer ist erneut spürbar gestiegen. Während die Gesamtzahl der monatlich aktiven Nutzer gegenüber dem Vorjahr um rund 15 Prozent wuchs, legte die Zahl der Nutzer, die das Soziale Netzwerk ausschließlich per Smartphone oder Tablet nutzen um 54 Prozent auf 894 Millionen zu, das sind 54 Prozent aller monatlich aktiven Accounts. Insgesamt nutzen mittlerweile mehr als 1,5 Milliarden Menschen Facebook mobil. Dagegen ist die Zahl der reinen Desktop-Nutzer rückläufig. Nur noch 146 Millionen Menschen (-24 Prozent) netzwerken ausschließlich über ihren stationären Rechner.
+
+---
+
+# Mobile Communities -  Tinder
+
+Tinder (dt. Zunder) ist eine kommerzielle mobile Dating-App, die das Ziel hat, ihren Benutzern das Kennenlernen von Menschen in der näheren Umgebung zu erleichtern. Sie wird zur Anbahnung von Flirts oder zum Knüpfen von Bekanntschaften verwendet.
+
+Tinder präsentiert dem Benutzer jeweils die Profilfotos, den Vornamen und das Alter einer anderen Person, die zuletzt in einem zuvor gewählten Umkreis um dieselbe Funkzelle war. 
+
+---
+
+# Mobile Gaming
+
+Handyspiele sind Computerspiele für Mobiltelefone, ähnlich den Spielen für PCs oder Spielekonsolen.
+
+Hatten die frühen Handyspiele, wie zum Beispiel Snake oder Memory, noch keine farbige Grafik und waren Übertragungen aus der Frühzeit des Computers, werden sie mit dem Aufkommen von javafähigen Mobiltelefonen, Farbdisplays, besserer Rechenleistung und einem erweiterten Tastensatz (Pfeiltasten, Joysticks) zunehmend aufwändiger gestalte
+
+---
+
+![inline](images/SuperData-Mobile-Game-Revenues.png)
+
+---
+
+## CrossDevice
+
+Crossdevice bezeichnet die Integration verschiedener Endgeräte in den Userjourney. So wird zum Beispiel mit dem mobilen Endgerät nach Hotels gesucht, diese werden als Favoriten gespeichert. Eine nähere Prüfung erfolgt mithilfe des Tablets vom heimischen Sofa, während der Kaufprozeß dann von einem Desktop-PC durchgeführt wird.
 
 ---
 
 # Location Based Services
+
+**Standortbezogene Dienste (engl. Location-based Services (LBS), auch: Location Dependent Services (LDS))** sind mobile Dienste, die unter Zuhilfenahme von positionsabhängigen Daten dem Endbenutzer selektive Informationen bereitstellen oder Dienste anderer Art erbringen.
+
+---
+
+# Beispiele
+
+- Interessante Orte in der Nähe, Point of Interest (POI)
+- Wo bin ich / meine Freunde
+- Verlässt mein Kind den Zielkorridor
+- Zielführung, Routenplaner und Routenoptimierung (inkl. Stauerfassung)
+- Reisezeitvorhersage (durch Gruppentracing- und Häufungsanalysen)
+
+---
+
+# Beispiele
+
+- Mobile Arbeitszeiterfassung
+- Ortsbezogene Werbung und Kommunikation
+- standortbezogene Spiele, z. B. Schnitzeljagd , Geocaching, Ingress, Foursquare
+- ...
 
 ---
 
@@ -499,11 +621,51 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 ---
 
-# [fit] IoT
+# Augmented Reality
+
+Unter **erweiterter Realität (auch englisch augmented reality, kurz AR)** versteht man die computergestützte Erweiterung der Realitätswahrnehmung. Diese Information kann alle menschlichen Sinnesmodalitäten ansprechen. Häufig wird jedoch unter erweiterter Realität nur die visuelle Darstellung von Informationen verstanden, also die Ergänzung von Bildern oder Videos mit computergenerierten Zusatzinformationen oder virtuellen Objekten mittels Einblendung/Überlagerung. Bei Fußball-Übertragungen ist erweiterte Realität beispielsweise das Einblenden von Entfernungen bei Freistößen mithilfe eines Kreises oder einer Linie.
 
 ---
 
-# Mobile Kommunikationsstrategien
+# Anwendungen
+- Hilfestellung bei komplexen Aufgaben, v. a. in Konstruktion, Wartung und Medizin
+- Industrielle Anwendungen
+- Navigation
+- Militär und Katastrophenmanagement
+- Architektur
+- Simulation
+- Unterhaltung (z.B. Ingress)
+- ...
+
+---
+
+![inline](images/augmented-reality-phone-for-blog.png)
+
+---
+
+# IoT
+
+Der Begriff **Internet der Dinge (IdD) (englisch Internet of Things, Kurzform: IoT)** beschreibt, dass der (Personal) Computer zunehmend als Gerät verschwindet und durch „intelligente Gegenstände“ ersetzt wird. Statt – wie derzeit – selbst Gegenstand der menschlichen Aufmerksamkeit zu sein, soll das „Internet der Dinge“ den Menschen bei seinen Tätigkeiten unmerklich unterstützen. Die immer kleineren eingebetteten Computer sollen Menschen unterstützen, ohne abzulenken oder überhaupt aufzufallen. So werden z. B. miniaturisierte Computer, sogenannte Wearables, mit unterschiedlichen Sensoren direkt in Kleidungsstücke eingearbeitet.
+
+---
+
+# Aktuelle Beispiele
+
+- Paketverfolgung über das Internet – Paketdienstleister bieten dem Paketempfänger die Möglichkeit, seine Sendung im Transportprozess zu verfolgen. Hierzu wird an den jeweiligen Transportstationen über Strichcodes oder 2D-Codes eine eindeutige Identifikation der Sendung vorgenommen und der aktuelle Status automatisch an eine Zentrale übertragen.
+
+- Nachbestellung von Druckerpatronen – Der Drucker identifiziert seine Druckerpatronen mittels Chiptechnologie und überwacht so deren Füllstand. Unterschreitet der Füllstand eine vordefinierte Grenze, fordert der Drucker den Anwender zur Nachbestellung über die Herstellerwebseite auf.
+
+---
+
+# Zukünfitge Beispiele 
+
+Die Einstellungen eines normalen Bürostuhls (Position und Federwirkung der Rückenstütze etc.) haben auf die Gesundheit deutlichen Einfluss. Derzeit wird die Anpassung des Stuhls an die Körpereigenschaften des Nutzers vom Nutzer selbst (daher häufig auch unvorteilhaft) vorgenommen. Wird der Stuhl zum Teilnehmer im Internet der Dinge, so ließen sich Sensortasten des Stuhls erfassen, vom Hersteller im Rahmen eines kostenarmen Services über das Netzwerk auswerten damit verbesserte Einstellungen am Stuhl (im Idealfall wieder über das Netz) vornehmen. (Die notwendige Betriebsenergie dafür kann aus dem Lastwechsel gewonnen werden.)
+
+---
+
+# [fit] Mobile
+# [fit] Kommunikations-
+# [fit] strategien
 
 ---
 
@@ -512,6 +674,7 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 **Mikroblogging** ist eine Form des Bloggens, bei der die Benutzer kurze, SMS-ähnliche Textnachrichten veröffentlichen können. Die Länge dieser Nachrichten beträgt meist weniger als 200 Zeichen. Die einzelnen Postings sind entweder privat oder öffentlich zugänglich und werden wie in einem Blog chronologisch dargestellt. Die Nachrichten können meist über verschiedene Kanäle wie SMS, E-Mail, Instant Messaging oder das Web erstellt und abonniert werden.
 
 ---
+
 # Mikrovideoblogging
 
 **Mikrovideoblogging** ist eine erweiterte Form des Mikrobloggings mit dem Unterschied, dass der Benutzer die Möglichkeit hat, kurze Videos (ohne Ton) aufzunehmen und diese dann auf eine Webseite zu stellen. Vernetzen lässt sich das Ganze dann beispielsweise mit Facebook, Twitter usw., wo man die einzelnen Statusmeldungen um die Videoanwendung erweitern und veröffentlichen kann.
@@ -520,43 +683,102 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 
 # Twitter
 
----
-
-# [fit] Bedeutung
+Twitter (englisch für Gezwitscher) ist ein Mikroblogging-Dienst des Unternehmens Twitter Inc. Auf Twitter können angemeldete Nutzer telegrammartige Kurznachrichten verbreiten. Die Nachrichten werden „Tweets“ (von englisch tweet „zwitschern“) genannt. Von 2011 bis 2016 erwirtschaftete das Unternehmen einen Verlust von 2 Milliarden Dollar.
 
 ---
 
-# Twitter in den Medien
+# Bedeutung
+
+- 320 Millionen aktive Nutzer 
+- 500 Mio Tweets pro Tag
+- über 80% mobile Anteil
 
 ---
 
-# Twitter im Journalismus
+# Aufgabe
+## Sucht Beispiele für berühmte Tweets, welche Medien & Journalismus und Gesellschaft beeinflußt haben.
+
+^ 5 min
 
 ---
 
-# Beispiele
+# Aufgabe
+## Sucht falsche Twitter-Profile.
+
+^ Wer findet mehr.
 
 ---
 
-# Falsche Tweets
+# Welche Auswirkung kann dies haben?
 
 ---
 
-# Weitere Dienste
-## Vine
-## Instagram
-## Facebook
+# [fit] Weitere
+# [fit] Dienste
 
 ---
 
-# Mobile Ads
+# Vine
+Vine ist ein Videoportal zum Austausch sehr kurzer Filmaufnahmen. Registrierte Benutzer können zu dem Portal 6 Sekunden lange Videoclips hochladen und sie damit – im Sinne eines sozialen Netzwerks – mit anderen „teilen“. Der Online-Dienst wurde 2012 von Twitter Inc. übernommen. Es steht eine kostenlose App für Android, iOS, Windows 10 (UWP) und Windows Phone zur Verfügung.
+
+---
+
+# Bedeutung
+
+- 40 Millionen aktive Nutzer 
+- 1 Mrd Loops pro Tag
+
+---
+
+# Bedutung von Instagram
+- Nutzerzahlen: 400 Millionen (Januar 2016)
+- Nutzerzahlen in Deutschland: 9 Millionen (Januar 2016)
+- Geteilte Bilder / Gesamt: 40 Milliarden (Januar 2016)
+- Likes pro Tag: 3,5 Milliarden (Januar 2016)
+- Bilder pro Tag: 80 Millionen (Januar 2016)
+
+
+---
+
+# Bedutung von Facebook
+- Nutzerzahlen/Monat: 1,65 Milliarden (April 2016)
+- Aktive Nutzer / Tag: >1 Milliarde (April 2016)
+- Likes pro Tag: 1,6 Milliarden (März 2014)
+- Bilder pro Tag: 60 Millionen (März 2014)
+- Nutzer FB-Messenger/Monat: 900 Millionen (April 2016)
+
+---
+
+# Mobile Advertising
+
+**Mobile Advertising** beschreibt eine Form der Werbung, die auf mobilen Endgeräten dargestellt wird. Mobile Advertising stellt einen Bereich des Mobile Marketing dar. Mithilfe spezieller Werbeformate, die an die mobilen Bildschirmgrößen angepasst sind, werden Werbebotschaften an Kunden übermittelt. Dabei sind verschiedene Arten von Geräten zu unterscheiden, auf denen mobile Werbung angezeigt wird. Zum einen handelt es sich um internetfähige Mobiltelefone oder Smartphones, zum anderen um Tablet-Computer und ähnliche Geräte (z.B. Phablet).
+
+Im Gegensatz zu Online-Werbung auf stationären Endgeräten werden Mobile-Ads (Anzeigen) aufgrund der geringen Bildschirmgröße meist nicht an den Rändern der Displays angezeigt. Stattdessen werden sie oft direkt zwischen den Inhalten platziert, was die Wahrnehmung der Anzeigen durch die Nutzer erhöht. Die Nutzung von Geotrageting ist möglich.
+
+---
+
+# Bedeutung
+## Weltweit ca. 9 Mrd. $ und Wachstumsraten über 40% 
+
+---
+
+# Formen
 ## InApp
 ## Web
 ## Appstores
+## Twitter
+## Facebook
+## SMS / MMS
+## Video
 
 ---
 
-# Native Apps
+# [fit] Entwicklung 
+# [fit] Nativer Apps
+
+---
+
+# Zielplattform
 ## Android
 ## iOS
 ## Blackberry
@@ -565,15 +787,38 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 ---
 
 # Vorteile
+- Bessere Performance
+- Bessere Integration
+- AppStores ermöglchen Auffindbarkeit
+- Approval durch AppStores erzeugen Vertrauen
+- SDKs vorhanden
 
 ---
 
 # Nachteile
+- Teuer in der Herstellung und Wartung
+- Entwicklung für jede Plattform notwendig
+- Approval in AppStore meist langwierig und nicht transparent
+- Verschiedene Versionen
 
 ---
 
 # Markdown
-## Einsatzbereiche
+**Markdown** ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde. Ein Ziel von Markdown ist, dass schon die Ausgangsform ohne weitere Konvertierung leicht lesbar ist. Als Auszeichnungselemente wurden daher vor allem Auszeichnungsarten verwendet, die in Plaintext und E-Mails üblich sind. 
+
+---
+
+# Einsatzbereiche
+Genutzt wird Markdown vorwiegend auf Plattformen mit eher technikaffinem Publikum wie GitHub, Stack Overflow oder der Blogging-Plattform Ghost. Markdown wird häufig bei Readme-Dateien verwendet. Seit 2010 werden die Pressemitteilungen der dpa im Markdown-Format veröffentlicht.
+
+Die meisten größeren Content-Management-Systeme, Wikis und Foren lassen sich durch Plugins um Markdown-Unterstützung erweitern. Es gibt Plugins für Wordpress, Joomla oder Mediawiki. Viele statische Webseiten-Generatoren (static site generators, wie Jekyll) nutzen Markdown als Auszeichnungssprache für den Inhalt.
+
+^ Diese Präsentation ist auch mit Markdown gemacht
+
+---
+
+# Beispiele
+[Cheatsheet] (http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 ---
 
@@ -627,7 +872,7 @@ Ericsson startete 2015 bereits erste Versuche und Messungen unter Outdoor-Beding
 ---
 
 # Beispiele
-## Gute und schlechte
+## Aufgabe: Sucht eine Seite, die eurer Meinung nach besonders gut  auf einem mobile Device aussieht und eine, die besonders schlecht aussieht.
 
 ---
 
