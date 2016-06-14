@@ -83,8 +83,6 @@ Facebook
 - EBooks
 - Entwicklung für mobile
 
-- HTML für Bootstrap mit allen Elementen: container, row, col, container-fluid, versch. Cols
-
 ---
 
 # [fit] Mobilfunk
@@ -1040,6 +1038,11 @@ Gestalterische Elemente wie Tabellen und mathematische Formeln sind grundsätzli
 
 ---
 
+# [fit] Use 
+# [fit] Frameworks
+
+---
+
 # [fit] Test in 
 # [fit] multiple Browsers
 
@@ -1089,6 +1092,11 @@ Gestalterische Elemente wie Tabellen und mathematische Formeln sind grundsätzli
 ---
 
 ![] (https://www.youtube.com/watch?v=kCJwwRXUTdo)
+
+---
+
+# Alternativ
+z.B. [Browserling] (https://www.browserling.com)
 
 ---
 
@@ -1185,7 +1193,7 @@ AMP-Websites verwenden ausschließlich asynchrones JavaSript. Hierdurch kann die
 
 ---
 
-##AMP CDN
+## AMP CDN
 Auf Proxyservern weltweit wird ein Cache von AMP-Websites angelegt. Die Inhalte können auf diese Weise über ein Content Delivery Network ausgegeben werden, das auf http 2.0 basiert. Das CDN prüft außerdem, ob die AMP-Website auch funktionsfähig ist.
 
 ---
@@ -1367,6 +1375,11 @@ Um die Gestaltung von der Auszeichnungssprache zu trennen, wurde 1996 die erste 
 ---
 
 # [fit] [Flexbox] (https://blog.kulturbanause.de/2013/07/einfuhrung-in-das-flexbox-modell-von-css/)
+
+---
+
+# Auch hier gibt es Frameworks!
+# z.B. [bulma] (http://bulma.io)
 
 ---
 
